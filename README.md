@@ -1,2 +1,3 @@
 # Calculator
-Open-Source calculator.
+Free Open-Source calculator for personals purposes.
+
